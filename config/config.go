@@ -4,7 +4,7 @@ package config
 const (
 	Shell = "/bin/bash"
 	ShellOption = "-c"
-	FileServerPort = ":8888"
+	FileServerPort = "8888"
 	FileServerSourceDir = "/home/basi/Documents"
 	SearchEngine = "https://www.bing.com/"
 	TranslatorUrl = "https://www.deepl.com/translator"
